@@ -1,2 +1,2 @@
 # Digit-Recognition
-Backpropagation algorithm for neural networks applied to hand-written digit recognition
+Backpropagation algorithm for a neural network that recognizes hand-written digits
