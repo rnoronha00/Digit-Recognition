@@ -1,6 +1,7 @@
 ##Roshan Noronha
 ##December 24, 2017
-##This program trains a neural network that recognizes handwritten numbers
+##This program trains a neural network that recognizes handwritten numbers. It uses both forward and back propagation to train the neural network.
+##This code is similar to the Neural Network assignment in Andrew Ng's coursera course
 
 from keras.models import Sequential
 from keras.datasets import mnist
